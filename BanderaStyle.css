@@ -1,0 +1,32 @@
+#cuerpo {background-color: gray}
+
+#title {color: darkgreen; font-size: 60px;}
+
+#texto {color: white; font-size: 40px;}
+
+#desc {color: red; font-size: 25px;}
+
+#bandera {display: inline;}
+
+#bandera {
+    display: inline;
+    padding: 50px;
+    padding: 50px 10px 80px;
+    padding: 50px 10px 80px 100px;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    margin: 80px;
+  
+    padding-left: 100px;
+    padding-right: 90px;
+    padding-top: 100px;
+    box-shadow: -5px -5px 10px black;
+    background-color: white;
+    border-left: 180px solid green;
+    border-right: 180px solid red;
+}
+
+#png {display: flexbox; margin: -20px;
+padding: 10px -50px 10px 10px;}
